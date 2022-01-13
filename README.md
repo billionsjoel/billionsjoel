@@ -17,13 +17,13 @@
 
 <br>
 
-<h3 align="left">GitHub Statistics:</h3>
+<h3 align="center">GitHub Statistics:</h3>
 
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=billionsjoel&show_icons=true&theme=vue&locale=en" alt="Juliana" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=billionsjoel&show_icons=true&theme=vue&locale=en" alt="Juliana" /></p>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=billionsjoel&theme=vue" alt="Billions A Joel" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=billionsjoel&theme=vue" alt="Billions A Joel" /></p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billionsjoel&layout=compact&theme=vue"</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billionsjoel&layout=compact&theme=vue"</p>
 
 <h3 align="center">Let's Connect 🤝</h3>
 <div align="center">
