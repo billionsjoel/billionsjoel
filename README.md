@@ -25,8 +25,8 @@
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billionsjoel&layout=compact&theme=vue"</p>
 
-<h3 align="left">Let's Connect 🤝</h3>
-<div align="left">
+<h3 align="center">Let's Connect 🤝</h3>
+<div align="center">
 <a target="_blank"
 href="https://www.linkedin.com/in/billionsjoel/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
@@ -36,4 +36,4 @@ href=" https://twitter.com/BillionsJoel"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <div/>
 
-<p align="left">You can check out my portfolio <a href="https://github.com/billionsjoel/billionsjoel" color="green">here</a></p>
+<p align="center">You can check out my portfolio <a href="https://github.com/billionsjoel/billionsjoel" color="green">here</a></p>
