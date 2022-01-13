@@ -2,12 +2,13 @@
 ## Hi there, I'm Billions Joel Atugonza...
 - 👩‍💻 pronouns: "He or him"
 - 🔭 I’m a full-stack software developer for 5+ years now.
+- 🎒 I taught C, C++ and Java for 3 years at Institute of Technology (SITM).
 - 👩‍🎓 I’m currently building great project at [Microverse Inc](https://github.com/microverseinc)
 - :computer: Language stack: JavaScript, React, Ruby, Rails, Php, Laravel, SQL and GCP.
-- 🌱 I'm honing my React and Redux skills
-- :book: love visuals and reading books
-- 👩‍🍳 I train and make videos for other devs during my free time
-- 💪 I have 3 years+ of remote work experience with devs
+- 🌱 I'm honing my React and Redux skills.
+- :book: love visuals and reading books.
+- 👩‍🍳 I train and make videos for other devs during my free time.
+- 💪 I have 3 years+ of remote work experience with devs.
   from all over the world
 
 
