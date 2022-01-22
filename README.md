@@ -16,7 +16,7 @@
 
 
 <!--START_SECTION:waka-->
-## 👱 Visitor count
+## 👨‍👨‍👦‍👦 Visitor count
 <img src="https://profile-counter.glitch.me/billionsjoel/count.svg" />
 <!--END_SECTION:waka-->
 
