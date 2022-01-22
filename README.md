@@ -11,7 +11,7 @@
 - :computer: Language stack: JavaScript, React, Ruby, Rails, Php, Laravel, SQL and GCP.
 - 🌱 I'm honing my React and Redux skills.
 - :book: I love visuals and reading books.
-- 👩‍🍳 I train and make videos for other devs during my free time.
+- 📽️ I train and make videos for other devs during my free time.
 - 💪 I have 3 years+ of remote work experience with devs from all over the world
 
 
