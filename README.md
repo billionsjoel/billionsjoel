@@ -2,7 +2,7 @@
 
 - 🙇 Before you is a homosapien in a relentless persuit for developing many amazing things.
 
-- 👩‍💻 Pronouns: "He or him"
+- 👩‍💻 Pronouns: "He or him".
 
 - 🔭 I’m a full-stack software developer for 5+ years now.
 
