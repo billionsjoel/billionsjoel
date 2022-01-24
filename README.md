@@ -1,6 +1,9 @@
+### Hello, My Lord. May I? 👋 
 
-## 👋 Hi there, I'm Billions Joel Atugonza...
+- 🙇 Before you is a homosapien in relentless persuit for developing many things.
+
 - 👩‍💻 Pronouns: "He or him"
+
 - 🔭 I’m a full-stack software developer for 5+ years now.
 
 - 🎒 I taught C, C++ and Java for 3 years at Institute of Technology (SITM).
