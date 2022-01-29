@@ -45,3 +45,12 @@ src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitt
 <div/>
 
 <p align="center">You can check out my portfolio <a href="https://github.com/billionsjoel/billionsjoel" color="green">here</a></p>
+
+<p align="center">
+  <h2 align="center">🏆 GitHub Profile Trophy</h2>
+  <p  align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=billionsjoel&column=8&no-frame=true&no-bg=true"/>
+  </a>
+  </p>
+</p>
