@@ -32,6 +32,16 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=billionsjoel&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DDD877" alt="Billions A Joel" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billionsjoel&layout=compact&theme=vue"</p>
+  
+  <p align="center">
+  <h2 align="center">🏆 GitHub Profile Trophy</h2>
+  <p  align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=billionsjoel&column=8&no-frame=true&no-bg=true"/>
+  </a>
+  </p>
+</p>
+
 
 <h3 align="center">Let's Connect 🤝</h3>
 <div align="center">
@@ -45,12 +55,3 @@ src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitt
 <div/>
 
 <p align="center">You can check out my portfolio <a href="https://github.com/billionsjoel/billionsjoel" color="green">here</a></p>
-
-<p align="center">
-  <h2 align="center">🏆 GitHub Profile Trophy</h2>
-  <p  align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=billionsjoel&column=8&no-frame=true&no-bg=true"/>
-  </a>
-  </p>
-</p>
