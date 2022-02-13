@@ -15,7 +15,7 @@
 - 💼 I’m currently available for hire or open to new job opportunities. <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 👩‍🎓 Meanwhile I’m building great projects at [Microverse Inc](https://github.com/microverseinc)
-- :computer: Language stack: JavaScript, React, Ruby, Rails, Php, Laravel, SQL and GCP.
+- :computer: Language stack: JavaScript, React, Ruby, Rails, PHP, Laravel, SQL and GCP.
 - 🌱 I'm honing my React and Redux skills.
 - :book: I love visuals and reading books.
 - 📽️ I train and make videos for other devs during my free time.
