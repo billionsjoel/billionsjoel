@@ -1,6 +1,6 @@
 ## Hello, My Lord. May I? 👋 
 
-- 🙇 Before you is a homosapien in a relentless persuit for developing amazing software.
+- 🙇 Before you is a homosapien in a relentless persuit for developing amazing software
 
 - 👩‍💻 Pronouns: "He or Him".
 
