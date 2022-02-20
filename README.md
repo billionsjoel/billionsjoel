@@ -4,7 +4,7 @@
 
 - 👩‍💻 Pronouns: "He or Him".
 
-- 🔭 I’m a full-stack software developer for 5+ years now.
+- 🔭 I’m a full-stack software developer with 5+ years of experience now.
 
 - 🎒 I taught C, C++ and Java for 3 years at Institute of Technology (SITM).
 
