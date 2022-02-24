@@ -1,4 +1,4 @@
-## Hello, My Lord. May I if I may? 👋 
+## Hello, My Lord. May I, if I may? 👋 
 
 - 🙇 Before you is a homosapien in a relentless persuit for developing amazing softwares.
 
