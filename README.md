@@ -1,6 +1,6 @@
 ## My Lord, May I, If I may? 👋 
 
-- 🙇 Before you is a homosapien in a relentless persuit for developing amazing softwares.
+- 🙇 Before you is a homosapien in a relentless persuit to build technologies that provide real social and economic impact. Dedicated to automating business processes and reducing inefficiencies.
 
 - 👩‍💻 Pronouns: "He or Him".
 
