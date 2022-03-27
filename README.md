@@ -10,7 +10,7 @@
 
 - 🎒 I taught C, C++ and Java for 3 years at Institute of Technology (SITM).
 
-- 💪 I have 3 years+ of remote work experience with devs from all over the world.
+- 💪 I have 3+ years of remote work experience with devs from all over the world.
 
 - 🛠️ I have built a few projects for the government of uganda.
 
