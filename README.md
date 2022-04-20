@@ -36,13 +36,13 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=billionsjoel&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DDD877" alt="Billions A Joel" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billionsjoel&langs_count=8&layout=compact&theme=vue"</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billionsjoel&langs_count=12&layout=compact&theme=vue"</p>
   
   <p align="center">
   <h2 align="center">🏆 GitHub Profile Trophy</h2>
   <p  align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=billionsjoel&column=12&no-frame=true&no-bg=true"/>
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=billionsjoel&column=6&no-frame=true&no-bg=true"/>
   </a>
   </p>
 </p>
