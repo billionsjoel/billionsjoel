@@ -42,7 +42,7 @@
   <h2 align="center">🏆 GitHub Profile Trophy</h2>
   <p  align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=billionsjoel&column=6&no-frame=true&no-bg=true"/>
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=billionsjoel&column=7&no-frame=true&no-bg=true"/>
   </a>
   </p>
 </p>
