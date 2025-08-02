@@ -1,4 +1,4 @@
-## My Lord, May I, If I may? 👋 
+## My Lord, May I, If I may? 👋
 
 - 🙇 Before you is a homosapien in a relentless persuit to build technologies that provide real social and economic impact.
 
@@ -14,13 +14,13 @@
 
 - 🛠️ I have built a few projects for the government of uganda.
 
-- 💼 I’m currently available for hire or open to new job opportunities. 
+- 💼 I’m currently available for hire or open to new job opportunities.
 
 <img align="center" style="width:10rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 👩‍🎓 Meanwhile I’m building great projects at [Microverse Inc](https://github.com/microverseinc)
 
-- :computer: Language stack: JavaScript, React, Ruby, Rails, PHP, Laravel, SQL and GCP.
+- :computer: Language stack: Nodejs, JavaScript, React, Ruby, Rails, PHP, Laravel, SQL and GCP.
 
 - 🌱 I'm honing my React and Redux skills.
 
@@ -28,9 +28,10 @@
 
 - 📽️ I train and make videos for other devs during my free time.
 
-
 <!--START_SECTION:waka-->
+
 ## 👨‍👨‍👦‍👦 Visitor count
+
 <img src="https://profile-counter.glitch.me/billionsjoel/count.svg" />
 <!--END_SECTION:waka-->
 
@@ -43,7 +44,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=billionsjoel&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&fire=DDD877" alt="Billions A Joel" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=billionsjoel&langs_count=12&layout=compact&theme=vue"</p>
-  
+
   <p align="center">
   <h2 align="center">🏆 GitHub Profile Trophy</h2>
   <p  align="center">
@@ -52,7 +53,6 @@
   </a>
   </p>
 </p>
-
 
 <h3 align="center">Let's Connect 🤝</h3>
 <div align="center">
